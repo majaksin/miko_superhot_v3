@@ -1,9 +1,9 @@
 {
   "id": "miko_superhot_v3",
   "version": "2.1.8",
-  "name": "한여름의 무녀 (R-18)",
+  "name": "한여름의 소녀들 (R-18)",
   "author": "소사희",
-  "description": "수영복을 모두 탈의합니다.\n투명도&아이콘 수정ver.\n\n리소스 : 커미션 맡김 (5000원)",
+  "description": "수영복을 모두 탈의합니다.\n투명도&아이콘 수정ver.\n\n대상 : 무녀, 이치히메, 지니아",
   "preview": "preview2.png",
   "dependencies": {
     "majsoul_plus": "^2.0.0"
@@ -19,6 +19,11 @@
     "jp/extendRes/charactor/yiji_haitanpaidui/half.png",
     "jp/extendRes/charactor/yiji_haitanpaidui/smallhead.png",
     "jp/extendRes/charactor/yiji_haitanpaidui/waitingroom.png",
+    "jp/extendRes/charactor/zeniya_YZ/bighead.png",
+    "jp/extendRes/charactor/zeniya_YZ/full.png",
+    "jp/extendRes/charactor/zeniya_YZ/half.png",
+    "jp/extendRes/charactor/zeniya_YZi/smallhead.png",
+    "jp/extendRes/charactor/zeniya_YZ/waitingroom.png",
     "scene/Assets/Resource/tablecloth/tablecloth_default/Table_Dif.jpg",
     "myres2/tablecloth/tablecloth_default/preview.jpg",
     "extendRes/items/tablecloth_navy.jpg"
